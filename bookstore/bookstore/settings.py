@@ -81,6 +81,7 @@ DATABASES = {
         'PASSWORD': 'dbuser',
         'HOST': 'localhost',
         'PORT': '',
+        
     }
 }
 
